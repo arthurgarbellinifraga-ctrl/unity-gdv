@@ -4,28 +4,27 @@ public class RandomItem : MonoBehaviour
 {
 
     [SerializeField] private string[] items = new string[10];
+
+void Update()
+{
+    // Check if Enter (Return) is pressed
+    if (Input.GetKeyDown(KeyCode.Return))
+    {
+        PrintRandomItem();
+    }
 }
-    // Start is called once before the first execution of Update after the MonoBehaviour is created
-   /* void Start()
+
+void PrintRandomItem()
+{
+    if (items.Length == 0)
     {
-        
+        Debug.LogWarning("Items array is empty!");
+        return;
     }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
-    void randomItem()
-    {
-        if (Input.GetKeyDown(KeyCode.KeypadEnter))
-        {
+    int randomIndex = Random.Range(0, items.Length);
+    string chosenItem = items[randomIndex];
 
-            int randomNumber = Random.Range(0, 10);
-            string randomName = items[randomNumber];
-            Debug.Log(randomName);
-        }
-
-
-    }
-   */
+    Debug.Log("Random Item: " + chosenItem);
+}
+}
