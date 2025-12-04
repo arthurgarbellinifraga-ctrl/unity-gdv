@@ -14,3 +14,10 @@ ik heb een scene gemaakt waarin een bal op een target kan schieten en wanneer da
 
 ![WhatsAppVideo2025-12-01at10 03 07-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/d91013a4-dee7-481b-b349-f37169cbc002)
 
+
+ik heb een canon gemaakgt waarmee je kan richten en schieten
+
+
+
+![WhatsAppVideo2025-12-04at15 19 13-ezgif com-cut](https://github.com/user-attachments/assets/f25f6ab1-a6b5-465b-893c-6b9f99308a95)
+
