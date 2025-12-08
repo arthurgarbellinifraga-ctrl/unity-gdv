@@ -24,3 +24,10 @@ ik heb een canon gemaakgt waarmee je kan richten en schieten
 ik heb een score systeem gemaakt waarmeen de ball ook de target destroyt na drie hits
 
 ![WhatsAppVideo2025-12-08at10 40 09-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/ffa7764d-9c59-4293-8a3d-3adb007c0316)
+
+
+ik heb een multiplier gemaakt voor als je de zelfde groep ballen raakt
+
+
+![WhatsAppVideo2025-12-08at12 18 33-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/60b4a218-2cae-4668-a3e1-297f17bc1c7b)
+
