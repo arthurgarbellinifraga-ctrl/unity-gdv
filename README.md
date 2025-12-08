@@ -21,3 +21,6 @@ ik heb een canon gemaakgt waarmee je kan richten en schieten
 
 ![WhatsAppVideo2025-12-04at15 19 13-ezgif com-cut](https://github.com/user-attachments/assets/f25f6ab1-a6b5-465b-893c-6b9f99308a95)
 
+ik heb een score systeem gemaakt waarmeen de ball ook de target destroyt na drie hits
+
+![WhatsAppVideo2025-12-08at10 40 09-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/ffa7764d-9c59-4293-8a3d-3adb007c0316)
