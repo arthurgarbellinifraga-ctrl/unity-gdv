@@ -31,3 +31,11 @@ ik heb een multiplier gemaakt voor als je de zelfde groep ballen raakt
 
 ![WhatsAppVideo2025-12-08at12 18 33-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/60b4a218-2cae-4668-a3e1-297f17bc1c7b)
 
+
+
+hier heb ik de ui gemaakt met titel
+
+
+<img width="904" height="477" alt="image" src="https://github.com/user-attachments/assets/1c4dd301-f04b-42bb-9895-d28817ded565" />
+
+
