@@ -43,4 +43,10 @@ hier heb ik particles en geluid toegevoegt
 ![WhatsAppVideo2026-01-17at13 52 06-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/978a106a-32a3-44f3-be9f-11c5d3e07d71)
 
 
+mijn checklist was compleet en als uitbreiding heb ik een extra groter obstakel toegevoegt met een kleine hit box
+
+![ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/731a9e36-6439-45a4-8acc-dd9f0370b65c)
+
+
+
 
