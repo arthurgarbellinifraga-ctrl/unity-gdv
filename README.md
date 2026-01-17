@@ -38,4 +38,9 @@ hier heb ik de ui gemaakt met titel
 
 <img width="904" height="477" alt="image" src="https://github.com/user-attachments/assets/1c4dd301-f04b-42bb-9895-d28817ded565" />
 
+hier heb ik particles en geluid toegevoegt
+
+![WhatsAppVideo2026-01-17at13 52 06-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/978a106a-32a3-44f3-be9f-11c5d3e07d71)
+
+
 
