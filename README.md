@@ -29,6 +29,9 @@ ik heb een score systeem gemaakt waarmeen de ball ook de target destroyt na drie
 ik heb een multiplier gemaakt voor als je de zelfde groep ballen raakt
 
 
+
+
+
 ![WhatsAppVideo2025-12-08at12 18 33-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/60b4a218-2cae-4668-a3e1-297f17bc1c7b)
 
 
@@ -47,6 +50,12 @@ mijn checklist was compleet en als uitbreiding heb ik een extra groter obstakel 
 
 ![ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/731a9e36-6439-45a4-8acc-dd9f0370b65c)
 
+
+complete game
+
+
+
+https://github.com/user-attachments/assets/fc13175f-736a-4a35-8b81-9ddf08718ecb
 
 
 
